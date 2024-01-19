@@ -35,7 +35,7 @@ const App = () => {
   return (
       <Router>
         <Routes>
-          <Route path="/" element={<Main/>} >
+          <Route path="/React-Js-Interview" element={<Bind/>} >
             <Route path="/bind" element={<Bind/>} />
             <Route path="/apply" element={<Apply/>} />
             <Route path="/call" element={<Call/>} />
