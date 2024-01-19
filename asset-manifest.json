@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Js-Interview/static/css/main.b31f03af.css",
+    "main.js": "/React-Js-Interview/static/js/main.826a2a14.js",
+    "index.html": "/React-Js-Interview/index.html",
+    "main.b31f03af.css.map": "/React-Js-Interview/static/css/main.b31f03af.css.map",
+    "main.826a2a14.js.map": "/React-Js-Interview/static/js/main.826a2a14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b31f03af.css",
+    "static/js/main.826a2a14.js"
+  ]
+}
